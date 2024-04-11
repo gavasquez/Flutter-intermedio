@@ -157,6 +157,7 @@ class _Titulo extends StatelessWidget {
   }
 }
 
+// ignore: unused_element
 class _ListaTareas extends StatelessWidget {
   final items = [
     const _ListItem('Orange', Color(0xffF08F66)),
